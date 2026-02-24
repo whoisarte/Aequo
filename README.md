@@ -94,16 +94,19 @@ Notas legales automáticas que respaldan cada concepto calculado.
 
 ## Pantallas Principales
 
-1. **Calculadora Inteligente**
+1. **Onboarding de Identidad**
+   - Flujo de configuración inicial de marca y perfil
+  
+2. **Calculadora Inteligente**
    - Formulario de fechas, salario y prestaciones
 
-2. **Configurador de Estilo**
+3. **Configurador de Estilo**
    - Personalización visual del PDF
 
-3. **Vista Previa de Reporte**
+4. **Vista Previa de Reporte**
    - Visualización interactiva antes de exportar
 
-4. **Expediente Digital**
+5. **Expediente Digital**
    - Listado de cotizaciones generadas
 
 ---
